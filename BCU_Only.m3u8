@@ -159,9 +159,9 @@ http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/32221/index.m3u8
 #EXTINF:0 tvg-rec="0",BCU Cinema HD
 #EXTGRP:BCU
 http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/32222/index.m3u8
-#EXTGRP:Музыка
+#EXTGRP:Музыкальные
 #EXTINF:0 tvg-rec="0",BCU Russia 90s HD
-#EXTGRP:Музыка
+#EXTGRP:Музыкальные
 http://4cd160c7.rossteleccom.net/iptv/RT589LQXD7C6Y2/31658/index.m3u8
 #EXTGRP:Детские
 #EXTINF:0 tvg-rec="7",BCU Multserial HD
