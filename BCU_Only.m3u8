@@ -129,7 +129,7 @@ http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/17019/index.m3u8
 http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/17020/index.m3u8
 
 #EXTINF:0 tvg-rec="0",BCU Cosmo HD
-#EXTGRP:Liberty
+#EXTGRP:BCU
 http://r9jgzc02.russtv.net/iptv/RDXD2KKG257QK5/19405/index.m3u8
 
 #EXTINF:0 tvg-rec="0", Liberty DC FHD
@@ -241,7 +241,7 @@ http://r9jgzc02.russtv.net/iptv/RDXD2KKG257QK5/19308/index.m3u8
 http://r9jgzc02.russtv.net/iptv/RDXD2KKG257QK5/19402/index.m3u8
 
 #EXTINF:0 tvg-rec="0", Liberty Фан FHD
-#EXTGRP:BOX
+#EXTGRP:Liberty
 http://r9jgzc02.russtv.net/iptv/RDXD2KKG257QK5/20141/index.m3u8
 
 #EXTINF:0 tvg-rec="0", BOX Ghost HD
