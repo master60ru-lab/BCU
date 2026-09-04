@@ -1,0 +1,731 @@
+#EXTM3U
+
+//BCU
+
+
+#EXTINF:0 tvg-rec="0",BCU Premium Kinozakaz+ 4K HDR
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31547/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Premium Premiere+ 4K HDR
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31549/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Premiere 1 HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11015/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Premiere 2 HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11016/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Premiere 3 HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11017/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU СССР HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11026/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Action HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11027/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Catastrophe HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11028/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Cinema HDR
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11029/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Cinema+ HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11030/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Comedy HDR
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11031/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Fantastic HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11032/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU FilMystic HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11033/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU History HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11034/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Kinorating HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11037/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Marvel HDR
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11038/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Premiere HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11039/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Romantic HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11040/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Russian HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11041/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU VHS HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11042/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Media HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11043/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Stars HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11044/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Ultra 4K
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11045/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU RuSerial HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11046/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Сваты HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11047/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Criminal HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11048/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Premiere Ultra 4K
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/15023/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Media HD OLD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/15024/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Marvel HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/15025/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Comedy HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/15026/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Reality HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/16082/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Survival HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/17019/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Cosmo HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/17021/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU TruMotion HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/17054/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Romantic OLD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/18052/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Media 2 HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/32220/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Media 3 HD
+#EXTGRP:BCU
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/32221/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Biography HDR
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/32219/index.m3u8
+
+
+
+
+
+//Liberty
+#EXTINF:0 tvg-rec="0",Liberty DC FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/15087/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Ужасы 4K
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/15088/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Триллеры 4K
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/15089/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Марвел FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/15090/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Короткометражки FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/15091/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Мелодрамы FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/15095/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Боевики FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/15096/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty BCU Микс 4K
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/15110/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Симпсоны FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/15111/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Сваты FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/15164/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Южный Парк FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/16053/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Комедии FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/16054/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Сериалы FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/16055/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty BCU UKR 4K
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/18045/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty РусФильм 4K
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/18046/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Индия 4K
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/18160/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Куб 4K
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/18161/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Семейный 4K
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/18178/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Турк Фильм 4K
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19303/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Сказки FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19304/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty МиМ FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19306/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Союз 4K
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19307/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Легенда 4K
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19308/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Нетфликс 4K
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19402/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Фантастика FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19403/index.m3u8
+
+
+
+
+
+
+//BOX
+#EXTINF:0 tvg-rec="0",BOX Franchise HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19274/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Hybrid HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19275/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Anime HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19276/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Gangster HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19277/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Oscar HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19278/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Memory HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19279/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX M.Serial HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19280/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Serial HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19281/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Game HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19284/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Spy HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19285/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Travel HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19418/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Western HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19419/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Zombie HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19420/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Cyber HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19421/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Liberty Планктон FHD
+#EXTGRP:Liberty
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/20140/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Ghost HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/20154/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Stories HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/20155/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Fantasy HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/20156/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Premiere 4K
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/20157/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Remast 4K
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/20158/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Mayday HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/20159/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Be On Edge Live 1 HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19422/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Be On Edge Live 2 HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19423/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Be On Edge HD
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19424/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Music 4K HDR
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19282/index.m3u8
+
+#EXTINF:0 tvg-rec="0",BOX Relax 4K
+#EXTGRP:BOX
+http://pk7gy6ze.streamoras.top/iptv/RDXD2KKG257QK5/19283/index.m3u8
+
+
+
+
+
+
+
+//Clarity4K
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/21161.png" group-title="Clarity4K HDR", Clarity4K HDR Cinema MIX 1
+http://am01.plink-pile.ch/21161/index.m3u8?token=FYwBcWmzeFPXh5
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/21162.png" group-title="Clarity4K HDR", Clarity4K HDR Cinema MIX 2
+http://am01.plink-pile.ch/21162/index.m3u8?token=FYwBcWmzeFPXh5
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/21163.png" group-title="Clarity4K HDR", Clarity4K HDR Cinema MIX 3
+http://am01.plink-pile.ch/21163/index.m3u8?token=FYwBcWmzeFPXh5
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/21164.png" group-title="Clarity4K HDR", Clarity4K HDR Cinema MIX 4
+http://am01.plink-pile.ch/21164/index.m3u8?token=FYwBcWmzeFPXh5
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/21165.png" group-title="Clarity4K HDR", Clarity4K HDR Cinema MIX 5
+http://am01.plink-pile.ch/21165/index.m3u8?token=FYwBcWmzeFPXh5
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/21166.png" group-title="Clarity4K HDR", Clarity4K HDR Cinema MIX 6
+http://am01.plink-pile.ch/21166/index.m3u8?token=FYwBcWmzeFPXh5
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/21167.png" group-title="Clarity4K HDR", Clarity4K HDR Cinema MIX 7
+http://am01.plink-pile.ch/21167/index.m3u8?token=FYwBcWmzeFPXh5
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/21168.png" group-title="Clarity4K HDR", Clarity4K HDR Cinema MIX 8
+http://am01.plink-pile.ch/21168/index.m3u8?token=FYwBcWmzeFPXh5
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/21169.png" group-title="Clarity4K HDR", Clarity4K HDR Cinema MIX 9
+http://am01.plink-pile.ch/21169/index.m3u8?token=FYwBcWmzeFPXh5
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/21170.png" group-title="Clarity4K HDR", Clarity4K HDR Cinema MIX 10
+http://am01.plink-pile.ch/21170/index.m3u8?token=FYwBcWmzeFPXh5
+
+
+
+
+
+//4K
+
+#EXTM3U
+#EXTINF:0 tvg-rec="0",Liberty Криминал 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31663/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV 4K HDR
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31620/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX СССР 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31625/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Дрим Воркс 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31661/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Remast+ 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31656/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Serial 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31657/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Аванпост 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31664/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мюзикл 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31662/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сериалы 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31665/index.m3u8
+#EXTINF:0 tvg-rec="0",Ultra HD Cinema 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/4000/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Premium Kinozakaz+ 4K HDR
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31547/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Premium Premiere+ 4K HDR
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31549/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Premiere Ultra 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/15023/index.m3u8
+#EXTINF:0 tvg-rec="0",VF MM 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11114/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сериал 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11115/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/16153/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/19435/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Ужасы 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/15088/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Триллеры 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/15089/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty MM Микс 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/15110/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty MM ENG 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/17060/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мульт ENG 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/17061/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty MM UKR 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/18045/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty РусФильм 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/18046/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Индия 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/18160/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Куб 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/18161/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Семейный 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/18178/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Турк Фильм 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/19303/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Союз 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/19307/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Легенда 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/19308/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Нетфликс 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/19402/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Magic 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/16143/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Premiere 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/20157/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Remast 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/20158/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty XX Век 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/20173/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Ultra 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/11045/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Советская классика 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/30151/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Relax 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/32226/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan OLD 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/32227/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX History 4K HDR
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31546/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Kosmo 4K HDR
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/31548/index.m3u8
+#EXTINF:0 tvg-rec="0",TravelXP 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/20031/index.m3u8
+#EXTINF:0 tvg-rec="0",TravelXP 4K HDR
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/14026/index.m3u8
+#EXTINF:0 tvg-rec="0",Museum 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/14016/index.m3u8
+#EXTINF:0 tvg-rec="0",Наша Сибирь 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/9330/index.m3u8
+#EXTINF:0 tvg-rec="0",Home 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/4002/index.m3u8
+#EXTINF:0 tvg-rec="0",Инсайт ТВ UHD
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/5000/index.m3u8
+#EXTINF:0 tvg-rec="0",Love Nature 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/5001/index.m3u8
+#EXTINF:0 tvg-rec="0",Глазами Туриста 4K
+#EXTGRP:4K
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/15191/index.m3u8
+
+
+//MM
+
+#EXTINF:0  tvg-id="elb483"  catchup="flussonic" catchup-days="3" MM 007 HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1001.png",MM 007 HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_007/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb556"  catchup="flussonic" catchup-days="3" MM Flip UHD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1005.png",MM Flip UHD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_flip/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb486"  catchup="flussonic" catchup-days="3" MM Honey HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1006.png",MM Honey HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_honey/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb487"  catchup="flussonic" catchup-days="3" MM Lesson HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1007.png",MM Lesson HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_lesson/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb488"  catchup="flussonic" catchup-days="3" MM Live Planet HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1008.png",MM Live Planet HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_live_planet/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb489"  catchup="flussonic" catchup-days="3" MM Love HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1009.png",MM Love HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_love/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb490"  catchup="flussonic" catchup-days="3" MM NewFilm 1 HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1010.png",MM NewFilm 1 HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_newfilm_1/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb491"  catchup="flussonic" catchup-days="3" MM NewFilm 2 HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1011.png",MM NewFilm 2 HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_newfilm_2/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb492"  catchup="flussonic" catchup-days="3" MM NewFilm 3 HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1012.png",MM NewFilm 3 HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_newfilm_3/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb493"  catchup="flussonic" catchup-days="3" MM NewFilm RU HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1013.png",MM NewFilm RU HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_newfilm_ru/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb2237"  catchup="flussonic" catchup-days="3" MM Relax HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1015.png",MM Relax HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_relax/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb495"  catchup="flussonic" catchup-days="3" MM Smile HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1017.png",MM Smile HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_smile/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb496"  catchup="flussonic" catchup-days="3" MM Tom and Jerry HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1018.png",MM Tom and Jerry HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_tom_and_jerry/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb498"  catchup="flussonic" catchup-days="3" MM UFO HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1020.png",MM UFO HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_ufo/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb499"  catchup="flussonic" catchup-days="3" MM USSR 1941-1945 HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1021.png",MM USSR 1941-1945 HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_ussr_1941_1945/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb500"  catchup="flussonic" catchup-days="3" MM USSR Детектив HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1022.png",MM USSR Детектив HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_ussr_detektiv/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb501"  catchup="flussonic" catchup-days="3" MM USSR Комедия HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1024.png",MM USSR Комедия HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_ussr_komedia/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb502"  catchup="flussonic" catchup-days="3" MM USSR Мультфильм HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1025.png",MM USSR Мультфильм HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_ussr_mult/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb503"  catchup="flussonic" catchup-days="3" MM USSR Приключения HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1026.png",MM USSR Приключения HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_ussr_prikluchenia/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb504"  catchup="flussonic" catchup-days="3" MM USSR Сказки HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1027.png",MM USSR Сказки HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_ussr_skazki/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb505"  catchup="flussonic" catchup-days="3" MM USSR Драма HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1023.png",MM USSR Драма HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_ussr_fantastika/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb506"  catchup="flussonic" catchup-days="3" MM Walt Disney HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1028.png",MM Walt Disney HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_walt_disney/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb507"  catchup="flussonic" catchup-days="3" MM Агата Кристи HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1030.png",MM Агата Кристи HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_agata_kristi/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb509"  catchup="flussonic" catchup-days="3" MM Боевик HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1032.png",MM Боевик HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_boevik/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb508"  catchup="flussonic" catchup-days="3" MM Боевик Classic HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1031.png",MM Боевик Classic HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_boevik_classic/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb510"  catchup="flussonic" catchup-days="3" MM Вестерн HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1033.png",MM Вестерн HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_western/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb553"  catchup="flussonic" catchup-days="3" MM Воронины HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1034.png",MM Воронины HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_voronini/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb514"  catchup="flussonic" catchup-days="3" MM Затмение HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1038.png",MM Затмение HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_zatmenie/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb515"  catchup="flussonic" catchup-days="3" MM История HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1039.png",MM История HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_istoria/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb516"  catchup="flussonic" catchup-days="3" MM Катастрофа HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1040.png",MM Катастрофа HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_katastrofa/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb518"  catchup="flussonic" catchup-days="3" MM Киберпанк HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1042.png",MM Киберпанк HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_kiberpunk/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb519"  catchup="flussonic" catchup-days="3" MM Комедия Classic HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1044.png",MM Комедия Classic HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_comedy_classic/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb520"  catchup="flussonic" catchup-days="3" MM Комедия HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1045.png",MM Комедия HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_comedy/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb521"  catchup="flussonic" catchup-days="3" MM Криминал HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1046.png",MM Криминал HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_kriminal/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb522"  catchup="flussonic" catchup-days="3" MM Крутые 90-е HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1047.png",MM Крутые 90-е HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_krutie_90e/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb523"  catchup="flussonic" catchup-days="3" MM Кунг-Фу HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1048.png",MM Кунг-Фу HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_kung_fu/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb527"  catchup="flussonic" catchup-days="3" MM Мифология HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1052.png",MM Мифология HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_mifologia/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb528"  catchup="flussonic" catchup-days="3" MM Нуар HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1053.png",MM Нуар HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_nuar/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb529"  catchup="flussonic" catchup-days="3" MM Погружение HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1055.png",MM Погружение HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_pogruzhenie/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb530"  catchup="flussonic" catchup-days="3" MM Полицейский с Рублёвки HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1056.png",MM Полицейский с Рублёвки HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_pol_s_rublevki/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb531"  catchup="flussonic" catchup-days="3" MM Приключения HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1057.png",MM Приключения HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_prikluchenia/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb532"  catchup="flussonic" catchup-days="3" MM Роскино HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1058.png",MM Роскино HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_roskino/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb533"  catchup="flussonic" catchup-days="3" MM Сваты HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1059.png",MM Сваты HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_svati/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb534"  catchup="flussonic" catchup-days="3" MM Семейный 1 HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1060.png",MM Семейный 1 HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_family_1/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb535"  catchup="flussonic" catchup-days="3" MM Семейный 2 HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1061.png",MM Семейный 2 HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_family_2/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb536"  catchup="flussonic" catchup-days="3" MM Синематограф HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1062.png",MM Синематограф HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_ues_krejven/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb537"  catchup="flussonic" catchup-days="3" MM Ситком HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1063.png",MM Ситком HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_sitcom/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb555"  catchup="flussonic" catchup-days="3" MM Ситком 2.0 HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1064.png",MM Ситком 2.0 HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_olga/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb538"  catchup="flussonic" catchup-days="3" MM Скорость HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1065.png",MM Скорость HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_skorost/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb539"  catchup="flussonic" catchup-days="3" MM Спорт HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1066.png",MM Спорт HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_sport/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb540"  catchup="flussonic" catchup-days="3" MM Стивен Кинг HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1067.png",MM Стивен Кинг HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_stiven_king/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb541"  catchup="flussonic" catchup-days="3" MM Супергерои HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1068.png",MM Супергерои HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_supergeroi/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb542"  catchup="flussonic" catchup-days="3" MM Триллер HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1069.png",MM Триллер HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_thriller/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb543"  catchup="flussonic" catchup-days="3" MM Ужастик HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1070.png",MM Ужастик HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_ujastic/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb544"  catchup="flussonic" catchup-days="3" MM Ужасы Classic HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1071.png",MM Ужасы Classic HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_ujasi_classic/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb545"  catchup="flussonic" catchup-days="3" MM Ужасы HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1072.png",MM Ужасы HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_ujasi/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb546"  catchup="flussonic" catchup-days="3" MM Фантастика HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1073.png",MM Фантастика HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_fantastika/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb547"  catchup="flussonic" catchup-days="3" MM Фобия HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1074.png",MM Фобия HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_fobja/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb484"  catchup="flussonic" catchup-days="3" MM Celebrity HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1002.png",MM Celebrity HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_celebrity/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb485"  catchup="flussonic" catchup-days="3" MM Classic HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1003.png",MM Classic HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_classic/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb497"  catchup="flussonic" catchup-days="3" MM Translation HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1019.png",MM Translation HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_translation/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb513"  catchup="flussonic" catchup-days="3" MM Драма HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1037.png",MM Драма HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_drama/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb524"  catchup="flussonic" catchup-days="3" MM Микромир HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1049.png",MM Микромир HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_micromir/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb525"  catchup="flussonic" catchup-days="3" MM Макромир HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1050.png",MM Макромир HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_macromir/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb526"  catchup="flussonic" catchup-days="3" MM Мегамир HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1051.png",MM Мегамир HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_megamir/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb552"  catchup="flussonic" catchup-days="3" MM Experiment HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1004.png",MM Experiment HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_experiment/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb494"  catchup="flussonic" catchup-days="3" MM OldSchool HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1014.png",MM OldSchool HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_oldschool/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb512"  catchup="flussonic" catchup-days="3" MM Гриффины HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1036.png",MM Гриффины HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_griffini/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb557"  catchup="flussonic" catchup-days="3" MM Открытия HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1054.png",MM Открытия HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_otkritiya/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
+#EXTINF:0  tvg-id="elb562"  catchup="flussonic" catchup-days="3" MM Кинофестиваль HD" group-title="KinoINT" tvg-logo="https://p.rapidnas.org/img/logos/minimax/1043.png",MM Кинофестиваль HD
+#EXTGRP:KinoINT
+http://cdn.balelbrus.com/bigteisti13/minimax_kinofestival/index.m3u8?token=TWFjdGVwfHxWMDlNTW5sMlJXdEVObU0yV2sxaA==
